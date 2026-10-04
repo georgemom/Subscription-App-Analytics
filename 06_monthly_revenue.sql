@@ -1,0 +1,2 @@
+-- Task 6: successful payment amounts less refunds by transaction month;
+-- then use LAG to calculate change from the previous month.

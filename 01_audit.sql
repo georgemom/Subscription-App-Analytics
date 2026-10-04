@@ -1,0 +1,2 @@
+-- Task 1: count rows in all six tables. Check the number of distinct
+-- users with onboarding_completed events against the number of event rows.

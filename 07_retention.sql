@@ -1,0 +1,2 @@
+-- Task 7: signup cohorts and share of users with an app_open event
+-- in the calendar month after their signup month.

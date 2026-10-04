@@ -1,0 +1,2 @@
+-- Task 5: share of users in each channel with a successful payment
+-- within 30 days of signup.

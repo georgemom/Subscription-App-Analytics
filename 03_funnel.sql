@@ -1,0 +1,2 @@
+-- Task 3: one row with assigned, started, completed, subscribed users.
+-- A user with duplicate completion events must count once.

@@ -1,0 +1,1 @@
+-- Task 4: 7-day onboarding completion by randomized A/B variant.

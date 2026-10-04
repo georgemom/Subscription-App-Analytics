@@ -1,0 +1,1 @@
+-- Task 2: signups by calendar month and acquisition channel.

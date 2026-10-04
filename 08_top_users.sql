@@ -1,0 +1,2 @@
+-- Task 8: top three users by net collected revenue in each country.
+-- Aggregate payments and refunds before joining them to users.
